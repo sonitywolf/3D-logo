@@ -15,7 +15,7 @@
     "gl-vec3": "1.0.3"
   },
   "devDependencies": {
-    "copy-to-clipboard": "^3.0.5",
+    "copy-to-clipboard": "^3.0.8",
     "uglifyify": "3.0.4"
   },
   "repository": {
